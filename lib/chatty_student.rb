@@ -15,7 +15,8 @@ class ChattyStudent < Student
 end
 
 
-
+sam = ChattyStudent.new
+sam.hello
 
 
 
